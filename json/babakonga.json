@@ -1,6 +1,6 @@
 var obj = {
   "name":"ババコンガ",
-  "type":monkey,
+  "type":"monkey",
   "material":[
     {"name":"桃色の毛","ratio":50},
     {"name":"桃色の剛毛","ratio":50}
