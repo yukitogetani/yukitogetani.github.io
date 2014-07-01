@@ -1,0 +1,41 @@
+callback({
+  lectures:[
+    {
+      "name":"語学初級",
+      "flag":true
+    },{
+      "name":"語学A",
+      "flag":true
+    },{
+      "name":"語学B",
+      "flag":false
+    },{
+      "name":"語学C",
+      "flag":false
+    }, {
+      "name":"語学初級",
+      "flag":true
+    },{
+      "name":"語学A",
+      "flag":true
+    },{
+      "name":"語学B",
+      "flag":false
+    },{
+      "name":"語学C",
+      "flag":false
+    }, {
+      "name":"語学初級",
+      "flag":true
+    },{
+      "name":"語学A",
+      "flag":true
+    },{
+      "name":"語学B",
+      "flag":false
+    },{
+      "name":"語学C",
+      "flag":false
+    }
+  ]
+});
