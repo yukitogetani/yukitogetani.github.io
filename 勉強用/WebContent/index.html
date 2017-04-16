@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="C:\java\pleiades\workspace\jquery-3.1.0.min.js"></script>
+<!--	<script type="text/javascript"
+		src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+-->
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<script>
+		$(function(){
+			$(".test2").click(function(){
+				$("#test1").val("aiueo");
+			});
+		});
+	</script>
+
+</head>
+<body>
+	 <form method="get" action="TestServlet" >
+		<input type="text" id="test1" name="test" value=""/>
+		<input type="button" class="test2" value="ボタン">
+		<input type="submit" class="test3" value="送信">
+	</form>
+</body>
+</html>
